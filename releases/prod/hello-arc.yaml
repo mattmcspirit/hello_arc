@@ -16,4 +16,4 @@ spec:
     replicaCount: 3
     env:
       name: MESSAGE
-      value: App deployment with GitOps v1.0
+      value: App deployment with GitOps v2.0
