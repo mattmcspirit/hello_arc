@@ -16,4 +16,4 @@ spec:
     replicaCount: 3
     env:
       name: MESSAGE
-      value: This is an Awesome Azure Arc GitOps Demo!
+      value: App deployment with GitOps v1.0
